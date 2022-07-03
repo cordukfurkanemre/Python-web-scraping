@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
+#Asin çekmek için kulandığım kod data-index tabanlı.
 
 URL="https://www.amazon.com/s?k=kitchen+organization"
 
